@@ -1,3 +1,3 @@
-<h3>Jogo Jokenpow</h3>
-<p>Criação do jogo de jokenpow, para treinar a logica de programação.</p>
+<h3>Jogo Jokenpô</h3>
+<p>Criação do jogo de Jokenpô, para treinar a lógica de programação.</p>
 <p>Foram utilizados como linguagem Javascript</p>
